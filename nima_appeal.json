@@ -1,0 +1,5312 @@
+[
+    {
+        "image_id": "8385411442",
+        "mean_score_prediction": 5.756816975058882,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "9625138420",
+        "mean_score_prediction": 5.281549896555589,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "2713735764",
+        "mean_score_prediction": 4.877974061761051,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "11232665444",
+        "mean_score_prediction": 5.413230619218666,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "5409637634",
+        "mean_score_prediction": 5.244328031576515,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "364777572",
+        "mean_score_prediction": 5.122595242733951,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "7574036406",
+        "mean_score_prediction": 4.666624665427662,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "8021464988",
+        "mean_score_prediction": 4.951919639108382,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "5464134286",
+        "mean_score_prediction": 4.677349131452502,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "4954115704",
+        "mean_score_prediction": 5.693859691869875,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "2939787669",
+        "mean_score_prediction": 4.92853480004851,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "5468605223",
+        "mean_score_prediction": 4.5135737697419245,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "6211562802",
+        "mean_score_prediction": 5.167198883995297,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "2416231204",
+        "mean_score_prediction": 5.436509091236076,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "7141864663",
+        "mean_score_prediction": 4.894509583464242,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "8730533258",
+        "mean_score_prediction": 5.408036062744571,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "2303343292",
+        "mean_score_prediction": 4.652244466931734,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "4142940823",
+        "mean_score_prediction": 5.158635074592894,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "3828155719",
+        "mean_score_prediction": 5.517330594011582,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "7318578602",
+        "mean_score_prediction": 5.161542187698615,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "10680932454",
+        "mean_score_prediction": 5.3192181781760155,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "8568761304",
+        "mean_score_prediction": 4.5870594160223845,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "7152554103",
+        "mean_score_prediction": 5.188354705755046,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "7985643395",
+        "mean_score_prediction": 4.960345904615679,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "11139580153",
+        "mean_score_prediction": 4.821750647737645,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "6739930655",
+        "mean_score_prediction": 5.283353267441271,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "4819847439",
+        "mean_score_prediction": 4.880032366854721,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "7470410498",
+        "mean_score_prediction": 4.9670195762082585,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "3107928091",
+        "mean_score_prediction": 4.673547251528362,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "8021456503",
+        "mean_score_prediction": 5.113379111309769,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "4805501528",
+        "mean_score_prediction": 5.7577794479457225,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "5007844069",
+        "mean_score_prediction": 4.6464356024807785,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "2344211137",
+        "mean_score_prediction": 5.444056798333236,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "145517507",
+        "mean_score_prediction": 3.8045801432806456,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "8539498079",
+        "mean_score_prediction": 4.594889342479291,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "6201268474",
+        "mean_score_prediction": 5.067176635209762,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "8142580716",
+        "mean_score_prediction": 4.4761186599498615,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "9510794857",
+        "mean_score_prediction": 4.469535389020166,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "5456373866",
+        "mean_score_prediction": 4.879502389230765,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "8457028188",
+        "mean_score_prediction": 5.207970414624242,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "7903635044",
+        "mean_score_prediction": 5.163751124938244,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "2848415190",
+        "mean_score_prediction": 5.771475683527569,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "6993179262",
+        "mean_score_prediction": 4.352931689691104,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "2649625286",
+        "mean_score_prediction": 5.3469038316943625,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "5646738672",
+        "mean_score_prediction": 5.293860549121746,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "7238585598",
+        "mean_score_prediction": 5.334789746031674,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "9251039345",
+        "mean_score_prediction": 4.775590660676244,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "11546100824",
+        "mean_score_prediction": 5.604977457377743,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "4626914740",
+        "mean_score_prediction": 4.95518792126677,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "3826205454",
+        "mean_score_prediction": 4.881258175839321,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "7543713322",
+        "mean_score_prediction": 4.771397065785322,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "8627391076",
+        "mean_score_prediction": 5.385796435960401,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "6452060589",
+        "mean_score_prediction": 5.002136718474503,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "7955776040",
+        "mean_score_prediction": 5.722811516463935,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "6820819077",
+        "mean_score_prediction": 4.97994666321938,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "11341117543",
+        "mean_score_prediction": 5.180256967039895,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "4405802084",
+        "mean_score_prediction": 5.059261527946546,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "2125600207",
+        "mean_score_prediction": 6.332247210006962,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "11270280904",
+        "mean_score_prediction": 4.899938586400822,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "4603364479",
+        "mean_score_prediction": 6.2394310729876885,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "9654462771",
+        "mean_score_prediction": 5.777036644539777,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "16057476",
+        "mean_score_prediction": 5.092771760842879,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "4540896523",
+        "mean_score_prediction": 4.732461888692342,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "5561556380",
+        "mean_score_prediction": 4.500306744812406,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "4610304834",
+        "mean_score_prediction": 4.684008031108533,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "2475938786",
+        "mean_score_prediction": 3.6862957164353816,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "5848411050",
+        "mean_score_prediction": 5.141622824297883,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "7272392080",
+        "mean_score_prediction": 4.809408459143015,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "6072006649",
+        "mean_score_prediction": 4.489289222190564,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "3099787122",
+        "mean_score_prediction": 4.658073883461384,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "6326442580",
+        "mean_score_prediction": 4.480444070453814,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "5612537234",
+        "mean_score_prediction": 5.576096880027308,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "4113685341",
+        "mean_score_prediction": 5.680850431331692,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "8617517082",
+        "mean_score_prediction": 5.094733682522929,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "8436817796",
+        "mean_score_prediction": 4.987210013321601,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "610496828",
+        "mean_score_prediction": 5.475053731122671,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "9668766101",
+        "mean_score_prediction": 4.604204416857101,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "3292481650",
+        "mean_score_prediction": 5.372769285397226,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "2832980159",
+        "mean_score_prediction": 4.828436174750095,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "5807318968",
+        "mean_score_prediction": 5.397592477824219,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "6449745557",
+        "mean_score_prediction": 5.2506111925955565,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "6778568929",
+        "mean_score_prediction": 5.120248902516323,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "6092502687",
+        "mean_score_prediction": 4.960304848806118,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "7408729508",
+        "mean_score_prediction": 4.632692166225752,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "5064264405",
+        "mean_score_prediction": 5.7431047318459605,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "2286627596",
+        "mean_score_prediction": 3.9919170487032716,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "5629171325",
+        "mean_score_prediction": 5.282120135367734,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "3726632967",
+        "mean_score_prediction": 4.446469368260296,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "3450753884",
+        "mean_score_prediction": 4.988894841873844,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "5715854575",
+        "mean_score_prediction": 4.915097184595652,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "3368873733",
+        "mean_score_prediction": 5.159621398917807,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "3465087333",
+        "mean_score_prediction": 4.472872191465285,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "8164688693",
+        "mean_score_prediction": 5.015232530391586,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "11079282234",
+        "mean_score_prediction": 5.778995242652854,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "6176401677",
+        "mean_score_prediction": 4.165877748549974,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "8258234240",
+        "mean_score_prediction": 4.967040105584601,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "8507554609",
+        "mean_score_prediction": 4.766190671900404,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "526555735",
+        "mean_score_prediction": 4.871649691514904,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "701112732",
+        "mean_score_prediction": 4.755139449773196,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "8072726562",
+        "mean_score_prediction": 4.691031149181072,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "3383452055",
+        "mean_score_prediction": 5.013130581006408,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "8929337311",
+        "mean_score_prediction": 5.20818921297905,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "5631740117",
+        "mean_score_prediction": 5.808656588145837,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "9055579014",
+        "mean_score_prediction": 5.678120504428534,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "3707755654",
+        "mean_score_prediction": 4.7647700287998305,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "563363297",
+        "mean_score_prediction": 4.864005288982298,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "2202105982",
+        "mean_score_prediction": 4.741238124726806,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "331340631",
+        "mean_score_prediction": 4.3953869774568375,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "4045599734",
+        "mean_score_prediction": 4.670523947112088,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "8965909066",
+        "mean_score_prediction": 5.939268686999952,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "3698386210",
+        "mean_score_prediction": 4.846592440371751,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "4389975585",
+        "mean_score_prediction": 5.242063252331718,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "3194756721",
+        "mean_score_prediction": 5.056730279320618,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "4806591146",
+        "mean_score_prediction": 5.308525803906377,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "6419047435",
+        "mean_score_prediction": 5.210088691988176,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "8972898508",
+        "mean_score_prediction": 4.71930541032998,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "8637618858",
+        "mean_score_prediction": 5.605991104268469,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "392179845",
+        "mean_score_prediction": 4.28082124289358,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "5034975248",
+        "mean_score_prediction": 5.389827203462119,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "6992326754",
+        "mean_score_prediction": 4.9893705423455685,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "6603102821",
+        "mean_score_prediction": 5.555957949402909,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "9898091624",
+        "mean_score_prediction": 4.71880310475899,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "992920521",
+        "mean_score_prediction": 5.579837527235213,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "5684508410",
+        "mean_score_prediction": 4.982474855569308,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "4239526963",
+        "mean_score_prediction": 4.741916257142293,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "8567636458",
+        "mean_score_prediction": 5.197225832347613,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "269509962",
+        "mean_score_prediction": 5.146114042399859,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "8398239689",
+        "mean_score_prediction": 5.554977330131223,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "7934781744",
+        "mean_score_prediction": 6.208290183541891,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "2998270477",
+        "mean_score_prediction": 4.816061171120964,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "5903878980",
+        "mean_score_prediction": 4.944518453521596,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "7056790837",
+        "mean_score_prediction": 5.048444731786731,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "10911046243",
+        "mean_score_prediction": 5.0707503177036415,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "2174764653",
+        "mean_score_prediction": 5.396234472309402,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "4138608778",
+        "mean_score_prediction": 5.180697580919514,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "4127387822",
+        "mean_score_prediction": 5.472892066702116,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "439745674",
+        "mean_score_prediction": 4.024496432498381,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "10173544123",
+        "mean_score_prediction": 5.443807144558377,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "6000347443",
+        "mean_score_prediction": 4.991462097095791,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "5435410945",
+        "mean_score_prediction": 5.462132106680656,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "10246311914",
+        "mean_score_prediction": 5.29487918388736,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "3114317948",
+        "mean_score_prediction": 4.475968592825666,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "9047016405",
+        "mean_score_prediction": 4.991247789554109,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "8528934790",
+        "mean_score_prediction": 5.235781069646691,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "9650165015",
+        "mean_score_prediction": 4.580126532882787,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "1100873520",
+        "mean_score_prediction": 5.013458473054925,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "4639050491",
+        "mean_score_prediction": 5.100450990980789,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "3277047132",
+        "mean_score_prediction": 5.445640526682837,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "4174114328",
+        "mean_score_prediction": 5.763319248735343,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "7365681654",
+        "mean_score_prediction": 4.424635117212347,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "3711573590",
+        "mean_score_prediction": 5.123762914468898,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "2748301393",
+        "mean_score_prediction": 5.0806857553106965,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "7762883720",
+        "mean_score_prediction": 5.589662107982349,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "5649238461",
+        "mean_score_prediction": 4.365132860039012,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "4626592042",
+        "mean_score_prediction": 4.8899011938337935,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "9768426856",
+        "mean_score_prediction": 5.793162084183223,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "8646019769",
+        "mean_score_prediction": 5.269676983569298,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "6594506719",
+        "mean_score_prediction": 5.416548328361387,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "8077318332",
+        "mean_score_prediction": 5.616219348912637,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "409597917",
+        "mean_score_prediction": 4.964222839684226,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "6996280620",
+        "mean_score_prediction": 4.857579120318405,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "6486604889",
+        "mean_score_prediction": 5.441893884974888,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "9222727460",
+        "mean_score_prediction": 4.82265189033933,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "8145791705",
+        "mean_score_prediction": 5.274705866744625,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "9346160455",
+        "mean_score_prediction": 5.290661469582119,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "6845847924",
+        "mean_score_prediction": 4.653827349015046,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "7597470314",
+        "mean_score_prediction": 4.7492597551317886,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "8377051997",
+        "mean_score_prediction": 5.1325056430650875,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "2786566950",
+        "mean_score_prediction": 4.194510140143393,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "7425462410",
+        "mean_score_prediction": 5.2594321893993765,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "6158806771",
+        "mean_score_prediction": 4.370960457286856,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "5664036497",
+        "mean_score_prediction": 4.805947877815925,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "4947500856",
+        "mean_score_prediction": 5.2077263410137675,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "5536240490",
+        "mean_score_prediction": 4.808407694217749,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "7969243650",
+        "mean_score_prediction": 5.464892124500693,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "7276446104",
+        "mean_score_prediction": 4.765955009079335,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "7006191446",
+        "mean_score_prediction": 5.261636961917247,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "7854876374",
+        "mean_score_prediction": 4.581234814773779,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "8083559682",
+        "mean_score_prediction": 5.335755844145751,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "9297933012",
+        "mean_score_prediction": 5.796429098576709,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "5468530650",
+        "mean_score_prediction": 5.438070989053813,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "3174536924",
+        "mean_score_prediction": 5.7131504836124805,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "8684784453",
+        "mean_score_prediction": 4.5832891841987475,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "8157117322",
+        "mean_score_prediction": 5.447454600795027,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "6940429128",
+        "mean_score_prediction": 4.218475745372416,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "8305669061",
+        "mean_score_prediction": 5.6732165124522,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "3943080167",
+        "mean_score_prediction": 4.58844276383752,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "4042245241",
+        "mean_score_prediction": 4.386217291870707,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "8667761330",
+        "mean_score_prediction": 5.538279292645484,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "7627158600",
+        "mean_score_prediction": 4.946013198015862,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "3722409963",
+        "mean_score_prediction": 4.3553217969456455,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "4883647933",
+        "mean_score_prediction": 5.362394009527634,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "1289162225",
+        "mean_score_prediction": 4.632835156426154,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "4551121129",
+        "mean_score_prediction": 5.116647838261997,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "4605755313",
+        "mean_score_prediction": 5.056750849595119,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "4034220859",
+        "mean_score_prediction": 4.5788054097793065,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "2178785463",
+        "mean_score_prediction": 5.106578429324145,
+        "db": "koniq10k"
+    },
+    {
+        "image_id": "farm1_286_19998340455_4629caa4ca_b",
+        "mean_score_prediction": 6.1119988431362,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_306_20170706135_257c54aa95_b",
+        "mean_score_prediction": 5.054951462444933,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_535_20128319006_de0a05376f_b",
+        "mean_score_prediction": 5.118976550111256,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_453_19986871390_9188e09831_b",
+        "mean_score_prediction": 4.967476338748384,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_329_19805177820_797174ca4c_b",
+        "mean_score_prediction": 5.017294635879807,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_380_20103549952_74645fb33e_b",
+        "mean_score_prediction": 4.416670036512414,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_392_20116153865_096e564d90_b",
+        "mean_score_prediction": 5.542644841499623,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_263_20317768422_4a8537aff4_b",
+        "mean_score_prediction": 5.388682395554497,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_356_20254094322_628ccf5c08_b",
+        "mean_score_prediction": 5.304176206496777,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_342_20193681471_223d834818_b",
+        "mean_score_prediction": 5.728676390718647,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_393_20075234966_70e5027248_b",
+        "mean_score_prediction": 4.214854091070947,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_315_20087406900_266a4da72a_b",
+        "mean_score_prediction": 4.2620276692541665,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_283_20279460231_e5a417129d_b",
+        "mean_score_prediction": 5.52768767948146,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_345_20142951888_f2b0526362_b",
+        "mean_score_prediction": 4.660513759667083,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_375_20274692905_a564199b2b_b",
+        "mean_score_prediction": 5.492185708324541,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_471_19449545644_8e7c127828_b",
+        "mean_score_prediction": 4.978693960736564,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm4_3690_20155850165_68afe0b24d_b",
+        "mean_score_prediction": 5.292679805971801,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_351_20168618246_3b80c8a1ec_b",
+        "mean_score_prediction": 5.288445470472652,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_280_20093792980_f50c7a0843_b",
+        "mean_score_prediction": 5.820597477954351,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_291_20280614061_476d44a107_b",
+        "mean_score_prediction": 4.481698045421581,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm4_3678_19808482618_19725e36b9_b",
+        "mean_score_prediction": 5.288805199362059,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_290_19802576129_70fec5a254_b",
+        "mean_score_prediction": 5.105301701648159,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm4_3683_20129520191_ca36630f94_b",
+        "mean_score_prediction": 4.450291162276699,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_324_20181408545_d4c68ea39b_b",
+        "mean_score_prediction": 4.868436887540156,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_431_20189822091_6aa7d58d18_b",
+        "mean_score_prediction": 4.800975098507479,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_259_19904572149_5e703aba8f_b",
+        "mean_score_prediction": 4.849782160279574,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_265_19374350573_605ed03e40_b",
+        "mean_score_prediction": 4.993501331986408,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_346_20104494812_a9031d331a_b",
+        "mean_score_prediction": 5.349850469728608,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_402_20186695415_eb1cfdb28c_b",
+        "mean_score_prediction": 4.794198419938766,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_561_19795891099_319a4ff595_b",
+        "mean_score_prediction": 5.924195735017378,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_344_20256880402_f9749a5c67_b",
+        "mean_score_prediction": 5.457462881888205,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_351_19590339854_d2a324916b_b",
+        "mean_score_prediction": 5.183115293339597,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_353_20065672326_fea4ccbb04_b",
+        "mean_score_prediction": 4.834834095676342,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_357_20094651972_f1d33dbfb7_b",
+        "mean_score_prediction": 5.018610178667586,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_369_20189147701_623e9014e0_b",
+        "mean_score_prediction": 4.971405731950654,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_367_19986592222_8d16558f5c_b",
+        "mean_score_prediction": 4.693295787641546,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_367_20204921381_2e6425892d_b",
+        "mean_score_prediction": 4.949738156006788,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_336_20161142751_c10d128c7d_b",
+        "mean_score_prediction": 5.091502100518483,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_276_19487779654_93e8643942_b",
+        "mean_score_prediction": 5.204191725639248,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm4_3834_20201553675_ce84dd04c1_b",
+        "mean_score_prediction": 5.60307557123906,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_333_19457197953_5b85456980_b",
+        "mean_score_prediction": 4.829793312983384,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_350_19581444864_f9a7cc3c8a_b",
+        "mean_score_prediction": 5.619371426324506,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_338_19913265879_1463dc981f_b",
+        "mean_score_prediction": 5.010156249289139,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_301_19659786384_c86c7e1f30_b",
+        "mean_score_prediction": 5.2146342686618254,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_278_19567747883_b92c094c42_b",
+        "mean_score_prediction": 5.467532354076411,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_291_20127082956_3e23d26595_b",
+        "mean_score_prediction": 5.467529213437956,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_261_20146436149_3e05c72bc3_b",
+        "mean_score_prediction": 4.883464489961625,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_392_19561367224_130222cde8_b",
+        "mean_score_prediction": 5.391808523894724,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_259_19991817930_f00fc0becd_b",
+        "mean_score_prediction": 5.1004551462392556,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_371_20279219205_8d39743f20_b",
+        "mean_score_prediction": 5.051578925054855,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_325_20017819769_2537eb5231_b",
+        "mean_score_prediction": 4.2106035956021515,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_317_20140860700_bacb841bf9_b",
+        "mean_score_prediction": 5.560926602593099,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_355_20180456301_762ef742a2_b",
+        "mean_score_prediction": 4.169803919876358,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm4_3679_19997101795_09efbe6736_b",
+        "mean_score_prediction": 5.472858840182425,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_359_20299142256_f78a4d0f8a_b",
+        "mean_score_prediction": 6.047108277943332,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_287_20077091498_a53049dca4_b",
+        "mean_score_prediction": 5.757373950720421,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_281_20073785960_fa8320e40d_b",
+        "mean_score_prediction": 5.7280381163332095,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_322_20193542405_a828847c67_b",
+        "mean_score_prediction": 4.30054427115283,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_297_19951672000_af582f2811_b",
+        "mean_score_prediction": 5.284875595520134,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_310_20003076769_c811095fa0_b",
+        "mean_score_prediction": 5.006759298994439,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_324_20177230262_5cb9e96a55_b",
+        "mean_score_prediction": 5.165360326482187,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_388_19654344563_b4c75259f3_b",
+        "mean_score_prediction": 3.932553365111744,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_263_19568286334_8d2ea52ce8_b",
+        "mean_score_prediction": 5.43540026343544,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_363_19871337810_697c3ef9c2_b",
+        "mean_score_prediction": 4.856682171404827,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_301_20174123975_4660281e14_b",
+        "mean_score_prediction": 5.569423487289441,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm4_3689_20331966965_5a7d52a28c_b",
+        "mean_score_prediction": 5.200892102591752,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_350_19941025709_36f0052df4_b",
+        "mean_score_prediction": 4.745615168605582,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm4_3668_19649625284_f439568559_b",
+        "mean_score_prediction": 5.798507710373997,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_355_20167773412_57c4c8c921_b",
+        "mean_score_prediction": 4.530812269120361,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_527_19534187673_2cc822690b_b",
+        "mean_score_prediction": 5.099714744334051,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm4_3688_19800333138_5a2c799e82_b",
+        "mean_score_prediction": 4.8794702398299705,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_285_20100530039_2b24248337_b",
+        "mean_score_prediction": 4.528533964970848,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_261_19989471851_d7e99475e8_b",
+        "mean_score_prediction": 5.195670093304216,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_289_20023267860_b2fbe84818_b",
+        "mean_score_prediction": 4.740294280341914,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_319_20093364669_bd566b2039_b",
+        "mean_score_prediction": 4.9977305492902815,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_279_20103076952_2e7e2c1928_b",
+        "mean_score_prediction": 4.47950668145495,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_314_20304197496_d474a48c98_b",
+        "mean_score_prediction": 4.840618354333401,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_261_20113393892_c98ea4f869_b",
+        "mean_score_prediction": 4.932185782381566,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_389_20011898609_37733ee9b3_b",
+        "mean_score_prediction": 5.963425153587309,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_298_20193612992_a48f3f9182_b",
+        "mean_score_prediction": 4.432745313679334,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_322_19448580494_77b3ae1257_b",
+        "mean_score_prediction": 4.827879764883619,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_290_20173238352_7e4022db65_b",
+        "mean_score_prediction": 5.257093682072082,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_279_19554444633_0e644b508a_b",
+        "mean_score_prediction": 4.69275733595714,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_327_19555183573_4deb0f52f3_b",
+        "mean_score_prediction": 4.955859431545832,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_451_19977602990_fd81f29e46_b",
+        "mean_score_prediction": 5.250918218258448,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_357_20270116805_36f8cc0e44_b",
+        "mean_score_prediction": 4.589554648416197,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_297_20184569842_07504838e2_b",
+        "mean_score_prediction": 4.795747891133942,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_350_20017252500_d2eb119a96_b",
+        "mean_score_prediction": 5.638645450068509,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_384_19910142928_d83bca48a8_b",
+        "mean_score_prediction": 4.962405551217671,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_302_20008307639_18ab5937b6_b",
+        "mean_score_prediction": 4.693496757728099,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm4_3675_19534648023_6b02413da6_b",
+        "mean_score_prediction": 4.5356558737912565,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_392_19489099813_d3e00cd5bb_b",
+        "mean_score_prediction": 5.384573759608884,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_304_20171662422_a9e902c847_b",
+        "mean_score_prediction": 4.994365173125061,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_351_20093609982_2ac03ea71f_b",
+        "mean_score_prediction": 4.910386634997849,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_392_19806980609_a644a42a87_b",
+        "mean_score_prediction": 4.494770482306194,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_340_19965231320_a2f30be891_b",
+        "mean_score_prediction": 5.387059712520568,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_287_19369653073_174e43769e_b",
+        "mean_score_prediction": 5.470459323910717,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_390_19884690949_ffa3931be6_b",
+        "mean_score_prediction": 4.717199065713203,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_380_19903254428_ce1c8a7865_b",
+        "mean_score_prediction": 5.046468554756984,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm4_3760_19581707063_411fc9e8e6_b",
+        "mean_score_prediction": 4.936959485422449,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_377_20109921162_9abce944bb_b",
+        "mean_score_prediction": 5.5177263661630604,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_329_20186252575_79ddb60286_b",
+        "mean_score_prediction": 5.011186702584382,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_303_20084580408_3b9027309e_b",
+        "mean_score_prediction": 4.528832713998781,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_306_20079266780_e15cfa29d0_b",
+        "mean_score_prediction": 5.953073328734945,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_343_20005991269_04c83d3d37_b",
+        "mean_score_prediction": 5.161347531771753,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_393_20270521432_cdcaf0f6fe_b",
+        "mean_score_prediction": 4.801513056398107,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_290_20339414661_68ed81a322_b",
+        "mean_score_prediction": 4.406131265284785,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_257_20145308899_8fecab3706_b",
+        "mean_score_prediction": 5.280811170062407,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_262_19974619602_f352b74c03_b",
+        "mean_score_prediction": 4.6246824189438485,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_286_20176085962_75c7d0de96_b",
+        "mean_score_prediction": 4.6292299445631215,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_374_20088211688_db3d4e9c2e_b",
+        "mean_score_prediction": 5.6208816465864295,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_331_20160295456_4d32161028_b",
+        "mean_score_prediction": 4.900165450257191,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_384_20168905551_3f2644a9b9_b",
+        "mean_score_prediction": 5.079853925803036,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_355_20145666190_42aa843713_b",
+        "mean_score_prediction": 5.076571348065045,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_265_20088446640_8b482ec6aa_b",
+        "mean_score_prediction": 5.526883362254921,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_390_20183771975_d930506da8_b",
+        "mean_score_prediction": 5.484345739285345,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_262_20175426302_d85a79d75d_b",
+        "mean_score_prediction": 5.283580184323,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_415_19512852113_76daf0e211_b",
+        "mean_score_prediction": 4.390701533564425,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_333_19966994608_ddcfbd68ac_b",
+        "mean_score_prediction": 5.548527317939943,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_559_20288394741_ed9034e07f_b",
+        "mean_score_prediction": 6.336696430599312,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_284_19910128878_9de0648e36_b",
+        "mean_score_prediction": 5.248579506896931,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_546_19894951500_a19ce7092d_b",
+        "mean_score_prediction": 4.910487085959176,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_268_19457890593_9683dcac05_b",
+        "mean_score_prediction": 5.293448521497339,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_459_20126431126_0e5284a75e_b",
+        "mean_score_prediction": 5.268413604858324,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_507_20180585645_faaf3719c3_b",
+        "mean_score_prediction": 6.095783047706561,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_330_19987511871_12c1fb96b5_b",
+        "mean_score_prediction": 5.538468314718557,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_371_20160056341_dcd996239d_b",
+        "mean_score_prediction": 4.583519488158345,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_551_19542178634_a28b694bb3_b",
+        "mean_score_prediction": 5.558140178335634,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_515_19911839200_aed2397008_b",
+        "mean_score_prediction": 4.839414802780084,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm4_3745_20008422870_9fe1b607ac_b",
+        "mean_score_prediction": 3.9287433720928675,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_340_20079599366_09404860f8_b",
+        "mean_score_prediction": 5.8358544808802435,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_336_19484264004_c3b5dd4eae_b",
+        "mean_score_prediction": 5.055305273563135,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_302_19372128533_281fea7e2e_b",
+        "mean_score_prediction": 4.645432168079424,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_352_20188180465_5a976e168d_b",
+        "mean_score_prediction": 5.223246672804635,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_388_20187671205_871dd0eb2e_b",
+        "mean_score_prediction": 5.175193826069517,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_396_19799722028_50ee148942_b",
+        "mean_score_prediction": 5.351969510212257,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_322_20071113392_6e05f37c1e_b",
+        "mean_score_prediction": 5.819538622636819,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_289_19532950774_54aa089edf_b",
+        "mean_score_prediction": 5.44162480248815,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_277_20206656421_b1e3f2f84b_b",
+        "mean_score_prediction": 4.4931227697234135,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_452_19569923444_3496eb7988_b",
+        "mean_score_prediction": 4.646350102499127,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_379_20074350248_d5968ab917_b",
+        "mean_score_prediction": 4.635450479545398,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_418_19360171504_c2d719d827_b",
+        "mean_score_prediction": 5.518259706786466,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_292_20207312211_2439362997_b",
+        "mean_score_prediction": 5.011039474866266,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_364_20016052950_d22173e508_b",
+        "mean_score_prediction": 5.358737439514698,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_277_19979425359_f0211ca11b_b",
+        "mean_score_prediction": 5.452662621013587,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_419_19706412744_24bee0c9d0_b",
+        "mean_score_prediction": 5.58966090921524,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_339_20086253882_d50bac6236_b",
+        "mean_score_prediction": 4.901152277001529,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_377_19533066754_5a45600dfc_b",
+        "mean_score_prediction": 4.733228362681984,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_399_19971092260_7053a35a7d_b",
+        "mean_score_prediction": 5.71995432690278,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_279_19582617234_4272f2bafc_b",
+        "mean_score_prediction": 4.957323861657642,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_449_19456397864_d74f909b3b_b",
+        "mean_score_prediction": 5.536049511832857,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_396_20111865761_0af5a120d9_b",
+        "mean_score_prediction": 4.998336708020361,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_264_20170485081_e00f7f442f_b",
+        "mean_score_prediction": 5.48562524943145,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_486_20002923240_770ed2f527_b",
+        "mean_score_prediction": 5.528461347663324,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm4_3683_20192974221_7b0f05c009_b",
+        "mean_score_prediction": 5.700056165564206,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_411_20147625392_b9af7bf64e_b",
+        "mean_score_prediction": 5.003041084841243,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_330_19988832649_ba5a1d5c05_b",
+        "mean_score_prediction": 4.8624171723931795,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_371_19705832873_8be4c91468_b",
+        "mean_score_prediction": 5.438262836328249,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_361_19926485388_d1c225bf5b_b",
+        "mean_score_prediction": 4.881432973311348,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_450_19988427855_4dfb95d330_b",
+        "mean_score_prediction": 6.098215938246385,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_332_19710092703_307581375f_b",
+        "mean_score_prediction": 4.46154426233079,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_358_19552188594_ac3e5ddcb2_b",
+        "mean_score_prediction": 5.5720366348396055,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm4_3739_20267821945_b7014d86b8_b",
+        "mean_score_prediction": 4.734000461758114,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_315_20204436725_4276fa3844_b",
+        "mean_score_prediction": 5.013040118908975,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_448_19640864133_073fff089d_b",
+        "mean_score_prediction": 5.655079988370744,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_331_20202921751_e7376ef0e5_b",
+        "mean_score_prediction": 4.645394669393681,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_323_20261406715_b27f6464c8_b",
+        "mean_score_prediction": 4.540876407088945,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_265_19975251408_eb64f15d0c_b",
+        "mean_score_prediction": 5.262913132578433,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_423_19460358423_ac899734a4_b",
+        "mean_score_prediction": 5.265887258872681,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_511_19810567668_e61278e0a7_b",
+        "mean_score_prediction": 5.334729859889194,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_560_20011150378_724ab1045a_b",
+        "mean_score_prediction": 5.012352048566754,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_296_19544564444_acd117c7fb_b",
+        "mean_score_prediction": 5.463411695505783,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_382_20022242120_0274c90611_b",
+        "mean_score_prediction": 4.520159387386229,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm4_3826_20002905928_541dcc788c_b",
+        "mean_score_prediction": 4.9337990223721135,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_409_20194505182_911d5806b9_b",
+        "mean_score_prediction": 5.133987751722088,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_319_20184326042_559072e14e_b",
+        "mean_score_prediction": 5.065597243792581,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_348_19532915394_07c0aaa27a_b",
+        "mean_score_prediction": 5.121863215928897,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_324_20148090636_774c7baec6_b",
+        "mean_score_prediction": 5.28824793973763,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_348_19985779509_7054a983b3_b",
+        "mean_score_prediction": 5.20576095872093,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_329_19978514652_20d035497f_b",
+        "mean_score_prediction": 5.689339133583417,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_270_19956408818_c1bf3e4a90_b",
+        "mean_score_prediction": 5.9338617612640405,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_433_19500747453_186d5a2421_b",
+        "mean_score_prediction": 5.180042993655647,
+        "db": "aadb"
+    },
+    {
+        "image_id": "farm1_256_20108408355_7235405d1d_b",
+        "mean_score_prediction": 5.320428948682093,
+        "db": "aadb"
+    },
+    {
+        "image_id": "78827175_Mug_of_Cocoa",
+        "mean_score_prediction": 4.710976320930058,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "162876571_among_the_reeds",
+        "mean_score_prediction": 5.2028014649040415,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "194901225_Frozen_Balaton",
+        "mean_score_prediction": 4.85003836893884,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "162077443_Sunset",
+        "mean_score_prediction": 6.43105887746516,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "139228225_Sunset-PicLiberum.com_0001",
+        "mean_score_prediction": 5.640527007931041,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "1026890271_Reclining_Naiad_1819-1824_by_",
+        "mean_score_prediction": 4.842949134341325,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "172478803_Keresztespok_Cross_Orbweaver",
+        "mean_score_prediction": 4.7064615952040185,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "1026975700_http_www.metmuseum.org_art_collection_search_247994",
+        "mean_score_prediction": 5.310424555707868,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "84887859_Leipziger_Zoo",
+        "mean_score_prediction": 5.580822292188714,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "130002297_Island",
+        "mean_score_prediction": 5.644942215512401,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "160438281_Mom_picking_lavender",
+        "mean_score_prediction": 5.738321553298903,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "224938483_501_bird",
+        "mean_score_prediction": 5.21246578321734,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "79280207_MM00A-0808_Pellgje",
+        "mean_score_prediction": 5.825411699842334,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "232495645_The_Supreme_cannot_be_found_amongst_the_things_that_are_visible.",
+        "mean_score_prediction": 4.75999497747398,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "139253071_Shroom-PicLiberum_com_0008",
+        "mean_score_prediction": 5.745402702061256,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "302137879_Cherry_Blossom",
+        "mean_score_prediction": 5.259876070140308,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "130002917_Watch",
+        "mean_score_prediction": 4.422832654003287,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "148674963_How_could_a_wise_man_sincerely_believe_that_the_formless_Existence_is_affected_by_forms_",
+        "mean_score_prediction": 4.621188569697551,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "159785189_Retouch_Lake",
+        "mean_score_prediction": 6.772515267199853,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "225088709_Ducks_at_the_stromy_Balaton",
+        "mean_score_prediction": 4.482523061077018,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "130002299_People",
+        "mean_score_prediction": 5.210612570021112,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "265610567_Mystic_Albula_II",
+        "mean_score_prediction": 5.1355002279069595,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "259634613_Gilia_tricolor",
+        "mean_score_prediction": 4.912255305767758,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "130003187_Barman",
+        "mean_score_prediction": 5.399736096289416,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "241904221_f_",
+        "mean_score_prediction": 5.4977443600364495,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "146064559_Viktoria",
+        "mean_score_prediction": 4.715152170107103,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "130003227_Small_bird",
+        "mean_score_prediction": 5.670758238543414,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "254033919_forest_stairs",
+        "mean_score_prediction": 4.2839391402403635,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "130003289_Day_at_sea",
+        "mean_score_prediction": 5.388186999101549,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "173224175_Bird_on_a_branch",
+        "mean_score_prediction": 4.75205416425888,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "223595997_Rocks_in_the_Beach",
+        "mean_score_prediction": 5.657487009412421,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "247698413_winter_in_the_woods",
+        "mean_score_prediction": 5.266788641005405,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "232783277_going_home",
+        "mean_score_prediction": 4.774738471067394,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "223460437_A_walk_in_the_park",
+        "mean_score_prediction": 5.0822663552908125,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "258564947_Phacelia_tanacetifolia",
+        "mean_score_prediction": 5.282402117468337,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "1023277564_Montauk_Point_Lighthouse,_Montauk_Point_State_Park,_New_York",
+        "mean_score_prediction": 4.624147682732655,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "260998095_orange",
+        "mean_score_prediction": 5.091860231891815,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "287661311_Art_in_Cities,_Athens,_Greece-CC0_Royalty_free",
+        "mean_score_prediction": 3.8243515940650923,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "202176431_Mark",
+        "mean_score_prediction": 5.583683745536632,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "78786593_Elsa_Victory_3D_graphics_card",
+        "mean_score_prediction": 5.206466488874867,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "231222599_Her",
+        "mean_score_prediction": 5.49829712115843,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "78786585_Caridina_japonica",
+        "mean_score_prediction": 5.228496624913532,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "260904605_cyanus_segetum-dark_red",
+        "mean_score_prediction": 5.516750180247641,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "229736563_Tihany_August_20.",
+        "mean_score_prediction": 5.428456369174455,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "130002295_Sea_view",
+        "mean_score_prediction": 5.453702149883554,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "151440493_Mark",
+        "mean_score_prediction": 4.743519455852947,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "252756505_Young_apple_tree",
+        "mean_score_prediction": 4.729773799386749,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "130002959_Extreme_biker",
+        "mean_score_prediction": 4.957448196895712,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "260395273_cyanus_segetum",
+        "mean_score_prediction": 5.011539133360202,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "234985111_Budapest_at_night",
+        "mean_score_prediction": 5.046618417938589,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "107515765_Tomato_blossom",
+        "mean_score_prediction": 4.598676276109472,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "287765245_Bring_the_Light",
+        "mean_score_prediction": 5.484005398422028,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "227480157_center_parcs-de_kempervennen",
+        "mean_score_prediction": 4.653668767394265,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "210415495_make_a_cold_wish",
+        "mean_score_prediction": 4.530425348581048,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "130002717_Shoes",
+        "mean_score_prediction": 4.90232068237674,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "199240065_MM00A-1602_RSC_LEX_ROA_H2O_D3200",
+        "mean_score_prediction": 5.508442703757282,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "130002307_IPhone",
+        "mean_score_prediction": 4.867893609742168,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "139933905_Tall-PicLiberum_com_0014",
+        "mean_score_prediction": 6.2216859278416905,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "287692485_",
+        "mean_score_prediction": 4.009321764389142,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "164175291_pylon_in_the_clouds",
+        "mean_score_prediction": 5.4585978897011955,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "258824101_Phacelia_tanacetifolia",
+        "mean_score_prediction": 5.258604276037659,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "131139407_Free_Stock_Photos",
+        "mean_score_prediction": 5.645810562429233,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "242215175_Guy_enjoying_sunset",
+        "mean_score_prediction": 5.429890361687285,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "258577687_blossom",
+        "mean_score_prediction": 4.86486188445997,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "268021827_Decksteiner_Weiher",
+        "mean_score_prediction": 5.408723604606507,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "154312333_Defocused_focusing",
+        "mean_score_prediction": 4.881168676860398,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "1003502191_Flat_lay_of_business_concept",
+        "mean_score_prediction": 5.70519695319399,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "1011015165_Anemone-",
+        "mean_score_prediction": 4.209447958208784,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "223658055_Rocks",
+        "mean_score_prediction": 5.792848788026191,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "168899139_Giant_Universe",
+        "mean_score_prediction": 5.870900776943202,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "223477547_Untitled",
+        "mean_score_prediction": 4.682290821700008,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "243189027_Cars_plugged-in_at_a_charging_pole_2_",
+        "mean_score_prediction": 5.284145506618643,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "175868717_Shine_Bright_in_Midst_of_Darkness",
+        "mean_score_prediction": 5.331858134584536,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "107140907_Tagetes",
+        "mean_score_prediction": 5.110819650515623,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "140186005_Buildings-PicLiberum_com_0016",
+        "mean_score_prediction": 6.246435312322745,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "130002303_Boat",
+        "mean_score_prediction": 5.154203385411165,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "79225887_Happy_Socks",
+        "mean_score_prediction": 4.756016791987349,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "178594907_broken_wing",
+        "mean_score_prediction": 5.023391907008772,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "302137935_Cherry_Blossom",
+        "mean_score_prediction": 5.469263547553055,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "260395297_cyanus_segetum",
+        "mean_score_prediction": 4.76163745116537,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "208819201_Let_me_never_imagine_I_am_something.",
+        "mean_score_prediction": 5.492331178340237,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "130002537_Park",
+        "mean_score_prediction": 5.398783271802131,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "194697987_Family",
+        "mean_score_prediction": 4.875026910543966,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "130002607_Sky",
+        "mean_score_prediction": 4.607447855116334,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "149163029_Pygmy_Iris_Apro_noszirom_Iris_pumila",
+        "mean_score_prediction": 4.744877648190595,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "122238161_something",
+        "mean_score_prediction": 4.326080763340997,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "79225885_green_grasshopper",
+        "mean_score_prediction": 5.351853388313657,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "246333743_",
+        "mean_score_prediction": 5.810510680712397,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "211975699_rocks_to_climb",
+        "mean_score_prediction": 4.906465472544369,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "225428903_6_51_PM",
+        "mean_score_prediction": 5.293301931247697,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "107284033_Center_parcs",
+        "mean_score_prediction": 4.805412607252947,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "269063663_The_sleeping_beauty_photo-manipulation",
+        "mean_score_prediction": 4.934436574898427,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "252755949_It_comes",
+        "mean_score_prediction": 5.0840923980922526,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "85841637_j",
+        "mean_score_prediction": 5.054644082963932,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "200479769_Mark",
+        "mean_score_prediction": 5.883405223213117,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "79030825_MM17B-0807_Rettilineo",
+        "mean_score_prediction": 5.460722674580808,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "223595995_Rocks_and_Blue",
+        "mean_score_prediction": 5.043260518359602,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "78892113_Valkenswaard",
+        "mean_score_prediction": 4.83690520950222,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "135558441_Pizza",
+        "mean_score_prediction": 4.702539242163766,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "130003073_Old_plane",
+        "mean_score_prediction": 5.4639368642515365,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "1011015217_Anemone-",
+        "mean_score_prediction": 4.087782730490744,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "130002571_View",
+        "mean_score_prediction": 5.108138531374607,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "139398057_Snow-PicLiberum_com_0011",
+        "mean_score_prediction": 6.576332626110389,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "78892111_Deventer",
+        "mean_score_prediction": 5.237670072153378,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "240030093_Image_1_18_1_2_copy",
+        "mean_score_prediction": 5.396479381284735,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "223545123_Untitled",
+        "mean_score_prediction": 5.351598383233068,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "238116245_Bratwurst",
+        "mean_score_prediction": 5.925976529959144,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "223545133_Untitled",
+        "mean_score_prediction": 5.230163560241635,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "179537679_coffee_and_tea_and_film",
+        "mean_score_prediction": 4.891256463481113,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "200230489_Mark",
+        "mean_score_prediction": 5.564837698189876,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "79226115_Nematobrycon_palmeri",
+        "mean_score_prediction": 5.181617084937898,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "252376423_Blackjack_in_der_aufregenden_Welt_der_Film-und_Spielhelden",
+        "mean_score_prediction": 4.726267859914515,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "265815759_Blue_blossom",
+        "mean_score_prediction": 4.621274521927262,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "146001191_Sarlos_baberpafrany_Cyrtomium_falcatum_House_holly-fern_or_Japanese_holly_fern",
+        "mean_score_prediction": 5.407491083140485,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "205689063_please_be_quiet",
+        "mean_score_prediction": 5.149081279465463,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "291131203_Ancient_Clock_wind_Tower_of_Andronikos",
+        "mean_score_prediction": 4.761369180592737,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "116213163_Tagetes",
+        "mean_score_prediction": 5.438095665373567,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "148674963_How_could_a_wise_man_sincerely_believe_that_the_formless_Existence_is_affected_by_forms?",
+        "mean_score_prediction": 4.621188569697551,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "181321917_Mark_in_the_city",
+        "mean_score_prediction": 5.237218752567173,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "223768047_Light_and_Shadow",
+        "mean_score_prediction": 5.102739034919068,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "112540029_2-Euro",
+        "mean_score_prediction": 5.238628239749232,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "287765263_Bring_the_Light",
+        "mean_score_prediction": 5.113521682798819,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "260200183_bee_on_gilia_capitata",
+        "mean_score_prediction": 5.0214878298384065,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "246435479_IMG",
+        "mean_score_prediction": 5.838303964846659,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "100327907_some_days_in_winter",
+        "mean_score_prediction": 5.585915404675177,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "287661197_Art_in_Cities,_Athens,_Greece-CC0_Royalty_free",
+        "mean_score_prediction": 4.903688319725916,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "139228681_Leaf-PicLiberum.com_0003",
+        "mean_score_prediction": 5.721947955134908,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "286547725_Greek_Graffiti_noRape_noGirlRape",
+        "mean_score_prediction": 4.80050537767238,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "289002539_graffiti",
+        "mean_score_prediction": 5.821720033058142,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "198969039_rain",
+        "mean_score_prediction": 4.580931064905599,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "220028869_Sunset",
+        "mean_score_prediction": 5.471256917029791,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "244984497_striped",
+        "mean_score_prediction": 5.602767121539728,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "219813943_Dead_Guardian",
+        "mean_score_prediction": 5.595489889677083,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "231554495_green_tomatoes",
+        "mean_score_prediction": 5.139712029325892,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "84886855_Canadian_Silver",
+        "mean_score_prediction": 5.089290434283612,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "219870271_Balaton",
+        "mean_score_prediction": 5.094139582475691,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "287755583_Human_Catastrophic_Dominion",
+        "mean_score_prediction": 4.699882350676489,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "80515617_Center_Parcs-De_Kempervennen",
+        "mean_score_prediction": 4.996124863653677,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "177177433_lone_tree",
+        "mean_score_prediction": 5.1211772557398945,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "223329847_virginia_creeper",
+        "mean_score_prediction": 4.404770310666208,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "258824099_Gilia_tricolor",
+        "mean_score_prediction": 4.984516595739478,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "78781399_Nematobrycon_palmeri",
+        "mean_score_prediction": 5.395334475246273,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "78786583_Hygrophila_polysperma",
+        "mean_score_prediction": 4.65780569735216,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "212179907_her",
+        "mean_score_prediction": 5.411666826800229,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "130002695_Sparks",
+        "mean_score_prediction": 4.766085445822682,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "1011015162_Anemone-",
+        "mean_score_prediction": 4.889333835111756,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "85841635_Untitled",
+        "mean_score_prediction": 4.979289712850004,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "287661253_Art_in_Cities,_Athens,_Greece-CC0_Royalty_free",
+        "mean_score_prediction": 4.584299729132908,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "130002305_Sea",
+        "mean_score_prediction": 5.288307949210321,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "287660881_Art_in_Cities,_Athens,_Greece-CC0_Royalty_free",
+        "mean_score_prediction": 4.601819078263361,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "195782991_symmetry",
+        "mean_score_prediction": 5.4701997726651825,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "253118977_sunset_over_BUD",
+        "mean_score_prediction": 5.557142747554892,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "147598739_ivy_on_fence",
+        "mean_score_prediction": 4.994572643074207,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "170149583_1_1_=_3",
+        "mean_score_prediction": 4.969055364228552,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "139398055_Mermaid-PicLiberum_com_0010",
+        "mean_score_prediction": 6.095671533149396,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "139253069_Bridge-PicLiberum_com_0007",
+        "mean_score_prediction": 6.367517808525376,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "286547675_Greek_Graffiti_noRape_noGirlRape",
+        "mean_score_prediction": 4.811701359314611,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "252756875_cornflower_seeds",
+        "mean_score_prediction": 4.990737423649989,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "174489205_Keresztespok_Cross_Orbweaver",
+        "mean_score_prediction": 4.4162317811424145,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "111241589_Tagetes",
+        "mean_score_prediction": 4.723698845295985,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "163075841_train_yourself_to_see_god_in_everything",
+        "mean_score_prediction": 5.479941629611858,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "207143029_MM00A-1704_LEX_CAR_URB_G6",
+        "mean_score_prediction": 5.760023066732209,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "112540127_something_with_alot_of_legs",
+        "mean_score_prediction": 5.45073146628647,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "130002301_Boats",
+        "mean_score_prediction": 5.3100761387013335,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "130002939_Relaxing",
+        "mean_score_prediction": 5.491235133757755,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "233459315_Behind_the_believer_is_a_reality",
+        "mean_score_prediction": 5.134620794589864,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "139228685_Icy-PicLiberum.com_0005",
+        "mean_score_prediction": 6.164037039932367,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "1011015218_Anemone-",
+        "mean_score_prediction": 4.928448930266313,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "265472269_bee",
+        "mean_score_prediction": 5.163444946443633,
+        "db": "500px_cc0"
+    },
+    {
+        "image_id": "817933",
+        "mean_score_prediction": 5.87830387818849,
+        "db": "ava"
+    },
+    {
+        "image_id": "123510",
+        "mean_score_prediction": 4.029618614797073,
+        "db": "ava"
+    },
+    {
+        "image_id": "8577",
+        "mean_score_prediction": 4.1530031317452085,
+        "db": "ava"
+    },
+    {
+        "image_id": "829803",
+        "mean_score_prediction": 5.42763705898119,
+        "db": "ava"
+    },
+    {
+        "image_id": "820679",
+        "mean_score_prediction": 6.0723270197802135,
+        "db": "ava"
+    },
+    {
+        "image_id": "830404",
+        "mean_score_prediction": 6.152421413606936,
+        "db": "ava"
+    },
+    {
+        "image_id": "786793",
+        "mean_score_prediction": 6.662125400325559,
+        "db": "ava"
+    },
+    {
+        "image_id": "556732",
+        "mean_score_prediction": 5.2243818008305425,
+        "db": "ava"
+    },
+    {
+        "image_id": "867395",
+        "mean_score_prediction": 5.9830050739695935,
+        "db": "ava"
+    },
+    {
+        "image_id": "348886",
+        "mean_score_prediction": 5.377597508915642,
+        "db": "ava"
+    },
+    {
+        "image_id": "4311",
+        "mean_score_prediction": 4.7316064230581105,
+        "db": "ava"
+    },
+    {
+        "image_id": "775306",
+        "mean_score_prediction": 6.3163722408954115,
+        "db": "ava"
+    },
+    {
+        "image_id": "820923",
+        "mean_score_prediction": 6.84238916994255,
+        "db": "ava"
+    },
+    {
+        "image_id": "6358",
+        "mean_score_prediction": 6.518733415601313,
+        "db": "ava"
+    },
+    {
+        "image_id": "579488",
+        "mean_score_prediction": 6.010341979372633,
+        "db": "ava"
+    },
+    {
+        "image_id": "13122",
+        "mean_score_prediction": 4.770728658302687,
+        "db": "ava"
+    },
+    {
+        "image_id": "177393",
+        "mean_score_prediction": 5.110154649941251,
+        "db": "ava"
+    },
+    {
+        "image_id": "936232",
+        "mean_score_prediction": 4.517336953285849,
+        "db": "ava"
+    },
+    {
+        "image_id": "685212",
+        "mean_score_prediction": 3.421046013658689,
+        "db": "ava"
+    },
+    {
+        "image_id": "316563",
+        "mean_score_prediction": 5.3111012894623855,
+        "db": "ava"
+    },
+    {
+        "image_id": "16080",
+        "mean_score_prediction": 3.9003382316484476,
+        "db": "ava"
+    },
+    {
+        "image_id": "750175",
+        "mean_score_prediction": 6.658169984090945,
+        "db": "ava"
+    },
+    {
+        "image_id": "220992",
+        "mean_score_prediction": 4.914717244384519,
+        "db": "ava"
+    },
+    {
+        "image_id": "620881",
+        "mean_score_prediction": 5.78972836009018,
+        "db": "ava"
+    },
+    {
+        "image_id": "59700",
+        "mean_score_prediction": 3.6863205987087895,
+        "db": "ava"
+    },
+    {
+        "image_id": "197602",
+        "mean_score_prediction": 5.471982725175167,
+        "db": "ava"
+    },
+    {
+        "image_id": "311199",
+        "mean_score_prediction": 4.841045090742682,
+        "db": "ava"
+    },
+    {
+        "image_id": "620831",
+        "mean_score_prediction": 5.713039372034018,
+        "db": "ava"
+    },
+    {
+        "image_id": "190590",
+        "mean_score_prediction": 4.629364484891994,
+        "db": "ava"
+    },
+    {
+        "image_id": "830583",
+        "mean_score_prediction": 5.935416373049179,
+        "db": "ava"
+    },
+    {
+        "image_id": "761466",
+        "mean_score_prediction": 4.96987365669338,
+        "db": "ava"
+    },
+    {
+        "image_id": "946448",
+        "mean_score_prediction": 5.12246375939867,
+        "db": "ava"
+    },
+    {
+        "image_id": "792513",
+        "mean_score_prediction": 6.266447351630007,
+        "db": "ava"
+    },
+    {
+        "image_id": "127546",
+        "mean_score_prediction": 5.425240116952409,
+        "db": "ava"
+    },
+    {
+        "image_id": "671516",
+        "mean_score_prediction": 5.370477367032436,
+        "db": "ava"
+    },
+    {
+        "image_id": "920450",
+        "mean_score_prediction": 6.183396735876812,
+        "db": "ava"
+    },
+    {
+        "image_id": "776337",
+        "mean_score_prediction": 5.092616367161099,
+        "db": "ava"
+    },
+    {
+        "image_id": "5195",
+        "mean_score_prediction": 4.968435163144022,
+        "db": "ava"
+    },
+    {
+        "image_id": "9538",
+        "mean_score_prediction": 5.964152608517935,
+        "db": "ava"
+    },
+    {
+        "image_id": "949475",
+        "mean_score_prediction": 6.371268101885792,
+        "db": "ava"
+    },
+    {
+        "image_id": "579832",
+        "mean_score_prediction": 5.35237449140368,
+        "db": "ava"
+    },
+    {
+        "image_id": "387352",
+        "mean_score_prediction": 5.0707239273415325,
+        "db": "ava"
+    },
+    {
+        "image_id": "425847",
+        "mean_score_prediction": 5.150031961118657,
+        "db": "ava"
+    },
+    {
+        "image_id": "262335",
+        "mean_score_prediction": 4.4317398556668195,
+        "db": "ava"
+    },
+    {
+        "image_id": "909647",
+        "mean_score_prediction": 4.982213739713188,
+        "db": "ava"
+    },
+    {
+        "image_id": "793134",
+        "mean_score_prediction": 5.802971689002334,
+        "db": "ava"
+    },
+    {
+        "image_id": "81906",
+        "mean_score_prediction": 4.9547420590606635,
+        "db": "ava"
+    },
+    {
+        "image_id": "533983",
+        "mean_score_prediction": 5.896442546446792,
+        "db": "ava"
+    },
+    {
+        "image_id": "239531",
+        "mean_score_prediction": 4.149515541175788,
+        "db": "ava"
+    },
+    {
+        "image_id": "211469",
+        "mean_score_prediction": 5.159452988082194,
+        "db": "ava"
+    },
+    {
+        "image_id": "326123",
+        "mean_score_prediction": 5.101438366516959,
+        "db": "ava"
+    },
+    {
+        "image_id": "54542",
+        "mean_score_prediction": 6.004800591092533,
+        "db": "ava"
+    },
+    {
+        "image_id": "300680",
+        "mean_score_prediction": 5.64375177371312,
+        "db": "ava"
+    },
+    {
+        "image_id": "334276",
+        "mean_score_prediction": 4.856675380324305,
+        "db": "ava"
+    },
+    {
+        "image_id": "252554",
+        "mean_score_prediction": 3.5810653022154497,
+        "db": "ava"
+    },
+    {
+        "image_id": "198956",
+        "mean_score_prediction": 6.047580688488097,
+        "db": "ava"
+    },
+    {
+        "image_id": "727495",
+        "mean_score_prediction": 6.451636048668792,
+        "db": "ava"
+    },
+    {
+        "image_id": "45312",
+        "mean_score_prediction": 4.8631375044788,
+        "db": "ava"
+    },
+    {
+        "image_id": "16770",
+        "mean_score_prediction": 5.571866311523763,
+        "db": "ava"
+    },
+    {
+        "image_id": "380844",
+        "mean_score_prediction": 4.8669982016381255,
+        "db": "ava"
+    },
+    {
+        "image_id": "234504",
+        "mean_score_prediction": 4.069839536950894,
+        "db": "ava"
+    },
+    {
+        "image_id": "255241",
+        "mean_score_prediction": 4.811200995558465,
+        "db": "ava"
+    },
+    {
+        "image_id": "883453",
+        "mean_score_prediction": 5.977610255629806,
+        "db": "ava"
+    },
+    {
+        "image_id": "625519",
+        "mean_score_prediction": 4.974431585113052,
+        "db": "ava"
+    },
+    {
+        "image_id": "306874",
+        "mean_score_prediction": 5.080618879001122,
+        "db": "ava"
+    },
+    {
+        "image_id": "638912",
+        "mean_score_prediction": 5.305428636281931,
+        "db": "ava"
+    },
+    {
+        "image_id": "502062",
+        "mean_score_prediction": 5.494976624380797,
+        "db": "ava"
+    },
+    {
+        "image_id": "480318",
+        "mean_score_prediction": 4.570739031703852,
+        "db": "ava"
+    },
+    {
+        "image_id": "327615",
+        "mean_score_prediction": 6.340432137871875,
+        "db": "ava"
+    },
+    {
+        "image_id": "471362",
+        "mean_score_prediction": 6.149950200052412,
+        "db": "ava"
+    },
+    {
+        "image_id": "362908",
+        "mean_score_prediction": 4.492600485882576,
+        "db": "ava"
+    },
+    {
+        "image_id": "778833",
+        "mean_score_prediction": 5.601501668677884,
+        "db": "ava"
+    },
+    {
+        "image_id": "284836",
+        "mean_score_prediction": 5.270900808640363,
+        "db": "ava"
+    },
+    {
+        "image_id": "38857",
+        "mean_score_prediction": 6.169189705525781,
+        "db": "ava"
+    },
+    {
+        "image_id": "604387",
+        "mean_score_prediction": 6.0307280106055146,
+        "db": "ava"
+    },
+    {
+        "image_id": "689702",
+        "mean_score_prediction": 5.732696502119779,
+        "db": "ava"
+    },
+    {
+        "image_id": "676133",
+        "mean_score_prediction": 5.7005317043465595,
+        "db": "ava"
+    },
+    {
+        "image_id": "29598",
+        "mean_score_prediction": 4.406406360503752,
+        "db": "ava"
+    },
+    {
+        "image_id": "534049",
+        "mean_score_prediction": 6.134541947500907,
+        "db": "ava"
+    },
+    {
+        "image_id": "911086",
+        "mean_score_prediction": 4.758437685552053,
+        "db": "ava"
+    },
+    {
+        "image_id": "143760",
+        "mean_score_prediction": 5.40088939874704,
+        "db": "ava"
+    },
+    {
+        "image_id": "605727",
+        "mean_score_prediction": 6.56896245714716,
+        "db": "ava"
+    },
+    {
+        "image_id": "638383",
+        "mean_score_prediction": 5.769875296928149,
+        "db": "ava"
+    },
+    {
+        "image_id": "865047",
+        "mean_score_prediction": 5.876404456848377,
+        "db": "ava"
+    },
+    {
+        "image_id": "80598",
+        "mean_score_prediction": 5.485722559114947,
+        "db": "ava"
+    },
+    {
+        "image_id": "923050",
+        "mean_score_prediction": 5.781459542188344,
+        "db": "ava"
+    },
+    {
+        "image_id": "598086",
+        "mean_score_prediction": 6.411486606200256,
+        "db": "ava"
+    },
+    {
+        "image_id": "958117",
+        "mean_score_prediction": 5.824457981453563,
+        "db": "ava"
+    },
+    {
+        "image_id": "89476",
+        "mean_score_prediction": 4.041878983462084,
+        "db": "ava"
+    },
+    {
+        "image_id": "166567",
+        "mean_score_prediction": 6.19262505884355,
+        "db": "ava"
+    },
+    {
+        "image_id": "671335",
+        "mean_score_prediction": 5.520541989447452,
+        "db": "ava"
+    },
+    {
+        "image_id": "816537",
+        "mean_score_prediction": 6.4057326189990045,
+        "db": "ava"
+    },
+    {
+        "image_id": "43085",
+        "mean_score_prediction": 3.7026443343672213,
+        "db": "ava"
+    },
+    {
+        "image_id": "19430",
+        "mean_score_prediction": 4.455904489492241,
+        "db": "ava"
+    },
+    {
+        "image_id": "885566",
+        "mean_score_prediction": 5.670987238936135,
+        "db": "ava"
+    },
+    {
+        "image_id": "734876",
+        "mean_score_prediction": 6.304634309083134,
+        "db": "ava"
+    },
+    {
+        "image_id": "263151",
+        "mean_score_prediction": 4.947853879181821,
+        "db": "ava"
+    },
+    {
+        "image_id": "852492",
+        "mean_score_prediction": 5.141220655845245,
+        "db": "ava"
+    },
+    {
+        "image_id": "843468",
+        "mean_score_prediction": 5.678062983387008,
+        "db": "ava"
+    },
+    {
+        "image_id": "178137",
+        "mean_score_prediction": 4.691481171968917,
+        "db": "ava"
+    },
+    {
+        "image_id": "683341",
+        "mean_score_prediction": 5.8048900676194535,
+        "db": "ava"
+    },
+    {
+        "image_id": "904583",
+        "mean_score_prediction": 6.246729699743099,
+        "db": "ava"
+    },
+    {
+        "image_id": "740346",
+        "mean_score_prediction": 6.277066013606589,
+        "db": "ava"
+    },
+    {
+        "image_id": "780373",
+        "mean_score_prediction": 6.220945611963643,
+        "db": "ava"
+    },
+    {
+        "image_id": "862192",
+        "mean_score_prediction": 5.47192922193949,
+        "db": "ava"
+    },
+    {
+        "image_id": "306946",
+        "mean_score_prediction": 5.365482019888077,
+        "db": "ava"
+    },
+    {
+        "image_id": "388808",
+        "mean_score_prediction": 6.387198152174831,
+        "db": "ava"
+    },
+    {
+        "image_id": "734292",
+        "mean_score_prediction": 4.90760928131931,
+        "db": "ava"
+    },
+    {
+        "image_id": "755084",
+        "mean_score_prediction": 5.802976387808144,
+        "db": "ava"
+    },
+    {
+        "image_id": "800305",
+        "mean_score_prediction": 5.027676326646542,
+        "db": "ava"
+    },
+    {
+        "image_id": "950941",
+        "mean_score_prediction": 5.594106662165359,
+        "db": "ava"
+    },
+    {
+        "image_id": "506",
+        "mean_score_prediction": 5.392440376740524,
+        "db": "ava"
+    },
+    {
+        "image_id": "824234",
+        "mean_score_prediction": 6.20308644351264,
+        "db": "ava"
+    },
+    {
+        "image_id": "38795",
+        "mean_score_prediction": 3.8139645668352387,
+        "db": "ava"
+    },
+    {
+        "image_id": "397947",
+        "mean_score_prediction": 5.132916957766611,
+        "db": "ava"
+    },
+    {
+        "image_id": "667083",
+        "mean_score_prediction": 6.223404148595279,
+        "db": "ava"
+    },
+    {
+        "image_id": "902302",
+        "mean_score_prediction": 4.93846544616099,
+        "db": "ava"
+    },
+    {
+        "image_id": "886084",
+        "mean_score_prediction": 5.594126422964109,
+        "db": "ava"
+    },
+    {
+        "image_id": "347819",
+        "mean_score_prediction": 5.025217596106813,
+        "db": "ava"
+    },
+    {
+        "image_id": "746084",
+        "mean_score_prediction": 5.753822078913856,
+        "db": "ava"
+    },
+    {
+        "image_id": "632095",
+        "mean_score_prediction": 5.248879993079754,
+        "db": "ava"
+    },
+    {
+        "image_id": "447976",
+        "mean_score_prediction": 5.530525438599398,
+        "db": "ava"
+    },
+    {
+        "image_id": "1624",
+        "mean_score_prediction": 4.074858448566374,
+        "db": "ava"
+    },
+    {
+        "image_id": "727153",
+        "mean_score_prediction": 6.206157881301301,
+        "db": "ava"
+    },
+    {
+        "image_id": "434637",
+        "mean_score_prediction": 5.172994536464103,
+        "db": "ava"
+    },
+    {
+        "image_id": "301332",
+        "mean_score_prediction": 4.330155511293924,
+        "db": "ava"
+    },
+    {
+        "image_id": "17427",
+        "mean_score_prediction": 6.163235431392593,
+        "db": "ava"
+    },
+    {
+        "image_id": "208446",
+        "mean_score_prediction": 5.631552152520271,
+        "db": "ava"
+    },
+    {
+        "image_id": "298346",
+        "mean_score_prediction": 5.010259089209285,
+        "db": "ava"
+    },
+    {
+        "image_id": "459853",
+        "mean_score_prediction": 5.245408489427064,
+        "db": "ava"
+    },
+    {
+        "image_id": "267110",
+        "mean_score_prediction": 6.414202076038423,
+        "db": "ava"
+    },
+    {
+        "image_id": "92396",
+        "mean_score_prediction": 4.910348823701497,
+        "db": "ava"
+    },
+    {
+        "image_id": "802121",
+        "mean_score_prediction": 5.541354203859555,
+        "db": "ava"
+    },
+    {
+        "image_id": "793904",
+        "mean_score_prediction": 5.055272728728596,
+        "db": "ava"
+    },
+    {
+        "image_id": "265373",
+        "mean_score_prediction": 5.16380711295642,
+        "db": "ava"
+    },
+    {
+        "image_id": "48758",
+        "mean_score_prediction": 5.01539242537001,
+        "db": "ava"
+    },
+    {
+        "image_id": "126749",
+        "mean_score_prediction": 4.492242619817262,
+        "db": "ava"
+    },
+    {
+        "image_id": "852614",
+        "mean_score_prediction": 5.680409590410349,
+        "db": "ava"
+    },
+    {
+        "image_id": "784883",
+        "mean_score_prediction": 5.896842137113346,
+        "db": "ava"
+    },
+    {
+        "image_id": "17903",
+        "mean_score_prediction": 4.8815889834495465,
+        "db": "ava"
+    },
+    {
+        "image_id": "771524",
+        "mean_score_prediction": 5.35171094593079,
+        "db": "ava"
+    },
+    {
+        "image_id": "6904",
+        "mean_score_prediction": 4.8346457533189096,
+        "db": "ava"
+    },
+    {
+        "image_id": "42415",
+        "mean_score_prediction": 4.89929164104251,
+        "db": "ava"
+    },
+    {
+        "image_id": "652045",
+        "mean_score_prediction": 6.195420162074981,
+        "db": "ava"
+    },
+    {
+        "image_id": "298565",
+        "mean_score_prediction": 5.138454206113238,
+        "db": "ava"
+    },
+    {
+        "image_id": "120247",
+        "mean_score_prediction": 5.40657569772884,
+        "db": "ava"
+    },
+    {
+        "image_id": "10003",
+        "mean_score_prediction": 5.54009666199272,
+        "db": "ava"
+    },
+    {
+        "image_id": "52586",
+        "mean_score_prediction": 4.201641547313557,
+        "db": "ava"
+    },
+    {
+        "image_id": "26927",
+        "mean_score_prediction": 4.50755554385978,
+        "db": "ava"
+    },
+    {
+        "image_id": "488310",
+        "mean_score_prediction": 5.894062623980062,
+        "db": "ava"
+    },
+    {
+        "image_id": "83776",
+        "mean_score_prediction": 4.562177325798984,
+        "db": "ava"
+    },
+    {
+        "image_id": "3295",
+        "mean_score_prediction": 5.05476801453915,
+        "db": "ava"
+    },
+    {
+        "image_id": "643621",
+        "mean_score_prediction": 5.5991698164079935,
+        "db": "ava"
+    },
+    {
+        "image_id": "749800",
+        "mean_score_prediction": 4.845077145986579,
+        "db": "ava"
+    },
+    {
+        "image_id": "285660",
+        "mean_score_prediction": 5.566166074480861,
+        "db": "ava"
+    },
+    {
+        "image_id": "934647",
+        "mean_score_prediction": 5.366754904855043,
+        "db": "ava"
+    },
+    {
+        "image_id": "952008",
+        "mean_score_prediction": 5.430885331657919,
+        "db": "ava"
+    },
+    {
+        "image_id": "937889",
+        "mean_score_prediction": 6.3882700829309975,
+        "db": "ava"
+    },
+    {
+        "image_id": "729015",
+        "mean_score_prediction": 4.256828942397988,
+        "db": "ava"
+    },
+    {
+        "image_id": "920887",
+        "mean_score_prediction": 6.16230799667273,
+        "db": "ava"
+    },
+    {
+        "image_id": "364370",
+        "mean_score_prediction": 5.802781655504532,
+        "db": "ava"
+    },
+    {
+        "image_id": "51662",
+        "mean_score_prediction": 5.947647909753044,
+        "db": "ava"
+    },
+    {
+        "image_id": "370709",
+        "mean_score_prediction": 5.174291073315544,
+        "db": "ava"
+    },
+    {
+        "image_id": "880228",
+        "mean_score_prediction": 5.909372835361637,
+        "db": "ava"
+    },
+    {
+        "image_id": "309716",
+        "mean_score_prediction": 4.0447239108725626,
+        "db": "ava"
+    },
+    {
+        "image_id": "103189",
+        "mean_score_prediction": 5.065014164894819,
+        "db": "ava"
+    },
+    {
+        "image_id": "9482",
+        "mean_score_prediction": 6.4901904415865275,
+        "db": "ava"
+    },
+    {
+        "image_id": "755941",
+        "mean_score_prediction": 4.604895471944474,
+        "db": "ava"
+    },
+    {
+        "image_id": "394334",
+        "mean_score_prediction": 4.965914206666639,
+        "db": "ava"
+    },
+    {
+        "image_id": "342075",
+        "mean_score_prediction": 5.816968260113185,
+        "db": "ava"
+    },
+    {
+        "image_id": "86130",
+        "mean_score_prediction": 5.013702964526601,
+        "db": "ava"
+    },
+    {
+        "image_id": "71729",
+        "mean_score_prediction": 5.272618890856393,
+        "db": "ava"
+    },
+    {
+        "image_id": "795726",
+        "mean_score_prediction": 4.557334002354764,
+        "db": "ava"
+    },
+    {
+        "image_id": "375809",
+        "mean_score_prediction": 5.436838802335842,
+        "db": "ava"
+    },
+    {
+        "image_id": "119481",
+        "mean_score_prediction": 5.348614555849053,
+        "db": "ava"
+    },
+    {
+        "image_id": "251597",
+        "mean_score_prediction": 5.578136008356523,
+        "db": "ava"
+    },
+    {
+        "image_id": "335761",
+        "mean_score_prediction": 4.29509115844121,
+        "db": "ava"
+    },
+    {
+        "image_id": "41981",
+        "mean_score_prediction": 6.002398528543882,
+        "db": "ava"
+    },
+    {
+        "image_id": "341668",
+        "mean_score_prediction": 5.1571712964214385,
+        "db": "ava"
+    },
+    {
+        "image_id": "570220",
+        "mean_score_prediction": 5.375047896115575,
+        "db": "ava"
+    },
+    {
+        "image_id": "815990",
+        "mean_score_prediction": 5.706099750276962,
+        "db": "ava"
+    },
+    {
+        "image_id": "728541",
+        "mean_score_prediction": 5.31890601219493,
+        "db": "ava"
+    },
+    {
+        "image_id": "148871",
+        "mean_score_prediction": 4.789847135209129,
+        "db": "ava"
+    },
+    {
+        "image_id": "312526",
+        "mean_score_prediction": 3.561200019779477,
+        "db": "ava"
+    },
+    {
+        "image_id": "875370",
+        "mean_score_prediction": 5.295084953693731,
+        "db": "ava"
+    },
+    {
+        "image_id": "23394",
+        "mean_score_prediction": 5.817597656269754,
+        "db": "ava"
+    },
+    {
+        "image_id": "still-life-art-and-literature-4778543",
+        "mean_score_prediction": 5.443224789916712,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "textures-3668419",
+        "mean_score_prediction": 5.644748682749196,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "goose-3190750",
+        "mean_score_prediction": 5.5313356842315216,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "swan-fight-4066486",
+        "mean_score_prediction": 5.461508325681962,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "el-capitan-4933472",
+        "mean_score_prediction": 5.597155496564227,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "race-5351045",
+        "mean_score_prediction": 5.692191678158451,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "man-and-nature-320129",
+        "mean_score_prediction": 5.749319795766581,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "lion-4581841",
+        "mean_score_prediction": 5.689482637185023,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "ruins-5497556",
+        "mean_score_prediction": 5.728069553374098,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "tulip-561050",
+        "mean_score_prediction": 6.140194993738078,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "duck-4934652",
+        "mean_score_prediction": 5.332333748855035,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "model-1115438",
+        "mean_score_prediction": 5.445560150361416,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "sport-4448366",
+        "mean_score_prediction": 5.494142155137752,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "hirsch-3967567",
+        "mean_score_prediction": 5.735432288608003,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "buddhist-1793421",
+        "mean_score_prediction": 6.264894989995245,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "old-1130731",
+        "mean_score_prediction": 4.949981176730944,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "colombia-4933448",
+        "mean_score_prediction": 5.814392716699963,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "woman-5341680",
+        "mean_score_prediction": 4.642629912028497,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "maple-2135514",
+        "mean_score_prediction": 5.253445383121289,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "flower-5468520",
+        "mean_score_prediction": 5.051778400928015,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "horses-1414889",
+        "mean_score_prediction": 5.881024836539154,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "architecture-3984719",
+        "mean_score_prediction": 6.110942224017293,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "girl-5049480",
+        "mean_score_prediction": 5.498831133008935,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "people-2942958",
+        "mean_score_prediction": 5.342461932657898,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "lost-places-1549096",
+        "mean_score_prediction": 5.758756836983622,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "nature-3302869",
+        "mean_score_prediction": 5.807355824437593,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "soap-bubble-1958650",
+        "mean_score_prediction": 5.50617090180458,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "kingfisher-1068684",
+        "mean_score_prediction": 6.034725553444275,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "old-1130733",
+        "mean_score_prediction": 5.51495811730274,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "thistle-5140407",
+        "mean_score_prediction": 5.498724596262235,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "top-view-1248955",
+        "mean_score_prediction": 5.182571507197281,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "flower-2420942",
+        "mean_score_prediction": 5.337728719154256,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "paris-3896248",
+        "mean_score_prediction": 5.937108708898037,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "mountains-3788308",
+        "mean_score_prediction": 5.987965606857397,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "forest-4707812",
+        "mean_score_prediction": 5.554214791917957,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "color-4489444",
+        "mean_score_prediction": 5.268508730024678,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "fantasy-2750995",
+        "mean_score_prediction": 6.167821369406571,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "iceland-268152",
+        "mean_score_prediction": 5.3396636333891365,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "deer-5367751",
+        "mean_score_prediction": 5.02544314313127,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "tree-4490071",
+        "mean_score_prediction": 6.07537586792553,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "the-cascading-water-3700969",
+        "mean_score_prediction": 6.163481133057942,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "trees-4688002",
+        "mean_score_prediction": 5.587138747632075,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "rock-3619386",
+        "mean_score_prediction": 5.323967596615148,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "elephant-55255",
+        "mean_score_prediction": 5.434402701419458,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "temple-4580961",
+        "mean_score_prediction": 5.578151918616641,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "rose-3802424",
+        "mean_score_prediction": 5.511147269389767,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "child-4696138",
+        "mean_score_prediction": 5.803838252737478,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "tree-3224754",
+        "mean_score_prediction": 5.60422865947919,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "apple-4888541",
+        "mean_score_prediction": 4.8898382884508464,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "woman-3585065",
+        "mean_score_prediction": 5.768426193127198,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "women-816255",
+        "mean_score_prediction": 6.166188556342064,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "glass-1283283",
+        "mean_score_prediction": 5.5400368608788995,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "soap-bubble-1959327",
+        "mean_score_prediction": 5.0011674581619445,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "old-1130743",
+        "mean_score_prediction": 5.201470059051644,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "flower-5349909",
+        "mean_score_prediction": 4.588681548671957,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "nature-2573561",
+        "mean_score_prediction": 5.704388836748137,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "bottle-4974440",
+        "mean_score_prediction": 5.849762785062239,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "coast-540123",
+        "mean_score_prediction": 6.283636517822111,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "mountain-4195328",
+        "mean_score_prediction": 6.718957360862905,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "flower-315444",
+        "mean_score_prediction": 5.152715750686184,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "wild-5090",
+        "mean_score_prediction": 5.389395795138341,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "fruits-82524",
+        "mean_score_prediction": 5.519009374609595,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "nature-693417",
+        "mean_score_prediction": 5.158597812842345,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "stockholm-2496370",
+        "mean_score_prediction": 5.034088217716942,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "dance-1958128",
+        "mean_score_prediction": 5.459996910041809,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "autumn-3755067",
+        "mean_score_prediction": 4.843408834482489,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "child-659283",
+        "mean_score_prediction": 5.6458169751165315,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "lime-319950",
+        "mean_score_prediction": 5.60904478800785,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "warm-and-cozy-1975215",
+        "mean_score_prediction": 5.93398798714162,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "spring-1256810",
+        "mean_score_prediction": 5.734680948646201,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "bee-5349886",
+        "mean_score_prediction": 5.124029703292763,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "fair-540126",
+        "mean_score_prediction": 5.629925593340886,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "slice-of-lemon-2135548",
+        "mean_score_prediction": 5.9848166138939405,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "village-3628524",
+        "mean_score_prediction": 5.240353136025078,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "waterfall-163579",
+        "mean_score_prediction": 6.061677614719924,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "landscape-540115",
+        "mean_score_prediction": 6.4034309884605385,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "women-1209678",
+        "mean_score_prediction": 5.207043934844478,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "rain-315446",
+        "mean_score_prediction": 5.052681827219203,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "mushroom-468674",
+        "mean_score_prediction": 5.603086356654785,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "winter-1142029",
+        "mean_score_prediction": 5.210245886536541,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "rome-5163868",
+        "mean_score_prediction": 4.755412569187683,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "fruit-1027987",
+        "mean_score_prediction": 5.416024881070371,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "autumn-leaves-2789234",
+        "mean_score_prediction": 5.528983694990757,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "cliffs-4422977",
+        "mean_score_prediction": 5.595326304184439,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "gulls-84208",
+        "mean_score_prediction": 5.5870208656716045,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "water-lily-3823928",
+        "mean_score_prediction": 5.288368755645934,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "drop-of-water-545377",
+        "mean_score_prediction": 5.187216316804552,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "plums-276075",
+        "mean_score_prediction": 5.20217745006812,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "bird-1975522",
+        "mean_score_prediction": 4.442829076753696,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "fiber-optic-2749588",
+        "mean_score_prediction": 5.768757264262945,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "volcano-560388",
+        "mean_score_prediction": 6.335916398209919,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "sunrise-320079",
+        "mean_score_prediction": 4.5388756807064965,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "heron-stalking-5367169",
+        "mean_score_prediction": 5.660959416785317,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "navy-ship-4510940",
+        "mean_score_prediction": 5.447161544731216,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "nature-3046567",
+        "mean_score_prediction": 6.0394662343424965,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "frog-3386397",
+        "mean_score_prediction": 5.327036893446348,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "morning-4573991",
+        "mean_score_prediction": 5.613899346609628,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "violet-5108852",
+        "mean_score_prediction": 5.297919988198828,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "cross-2713356",
+        "mean_score_prediction": 6.431509325761559,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "trzmielowka-4759197",
+        "mean_score_prediction": 5.179217896387854,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "loco-1897607",
+        "mean_score_prediction": 5.714355713940456,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "shellfish-3062011",
+        "mean_score_prediction": 5.733230487972811,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "fragrapanti-4366075",
+        "mean_score_prediction": 4.924156021872477,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "house-mouse-5090096",
+        "mean_score_prediction": 5.909922919343046,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "sushi-2853382",
+        "mean_score_prediction": 5.6247596612283814,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "magnolia-trees-556718",
+        "mean_score_prediction": 5.296825289655317,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "flower-3302834",
+        "mean_score_prediction": 5.8848031731394315,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "primrose-5007661",
+        "mean_score_prediction": 5.975086056517483,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "factory-3337200",
+        "mean_score_prediction": 6.11833032356097,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "sunset-815270",
+        "mean_score_prediction": 6.016440970540726,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "spring-4079984",
+        "mean_score_prediction": 5.457083334581284,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "eye-1132531",
+        "mean_score_prediction": 6.1583887629253695,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "apple-4837158",
+        "mean_score_prediction": 5.01050341433438,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "globe-3984876",
+        "mean_score_prediction": 6.191682895828194,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "flower-2394096",
+        "mean_score_prediction": 4.943947593385019,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "sea-3770942",
+        "mean_score_prediction": 5.54277421360581,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "ski-103600",
+        "mean_score_prediction": 4.831299863091772,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "nature-1975455",
+        "mean_score_prediction": 5.157244600311969,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "lion-3372731",
+        "mean_score_prediction": 6.037935543552223,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "cake-4302405",
+        "mean_score_prediction": 5.502558571221016,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "people-2576291",
+        "mean_score_prediction": 5.295325239418162,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "cat-316990",
+        "mean_score_prediction": 5.320185188218602,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "meerkat-2482875",
+        "mean_score_prediction": 5.507638920073532,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "coffee-1399801",
+        "mean_score_prediction": 5.370610423513426,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "guardian-angel-2821427",
+        "mean_score_prediction": 5.326549154822715,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "spices-2548653",
+        "mean_score_prediction": 5.512139655200372,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "asia-1793414",
+        "mean_score_prediction": 6.311422273131772,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "son-1910304",
+        "mean_score_prediction": 5.574062270081413,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "marigold-54936",
+        "mean_score_prediction": 4.878240076206566,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "frost-1209402",
+        "mean_score_prediction": 5.696915545261845,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "farbenspiel-5107865",
+        "mean_score_prediction": 5.936391978676568,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "mammal-2892911",
+        "mean_score_prediction": 5.387901202328067,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "castle-2744263",
+        "mean_score_prediction": 6.18914079199523,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "tea-2356775",
+        "mean_score_prediction": 5.383448436159597,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "water-2208931",
+        "mean_score_prediction": 4.89849304751624,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "fiore-4083073",
+        "mean_score_prediction": 5.100473931955548,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "flowers-2396324",
+        "mean_score_prediction": 5.258992308096595,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "liverwort-3159876",
+        "mean_score_prediction": 5.408018286910647,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "drone-5106882",
+        "mean_score_prediction": 4.364408785470914,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "sydney-3629684",
+        "mean_score_prediction": 5.368967035122978,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "green-tea-2356770",
+        "mean_score_prediction": 5.599827174400161,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "message-in-a-bottle-1694868",
+        "mean_score_prediction": 5.591217850352223,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "flower-5109122",
+        "mean_score_prediction": 5.2498324818716355,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "camera-792044",
+        "mean_score_prediction": 4.290801633986121,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "liver-sausage-556489",
+        "mean_score_prediction": 5.1910589904291555,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "sunset-2496237",
+        "mean_score_prediction": 5.192632484606293,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "tree-1959267",
+        "mean_score_prediction": 5.92930416455258,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "sunflower-3598564",
+        "mean_score_prediction": 5.283579664599529,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "landscape-4694558",
+        "mean_score_prediction": 5.9744419894610665,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "faith-2208916",
+        "mean_score_prediction": 5.190992014908261,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "tulips-320151",
+        "mean_score_prediction": 6.060132037345111,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "altai-3620114",
+        "mean_score_prediction": 6.326515710972828,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "swan-5366249",
+        "mean_score_prediction": 5.32197981256104,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "nature-1283523",
+        "mean_score_prediction": 5.135445282248838,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "autumn-2789224",
+        "mean_score_prediction": 5.892544918635394,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "drops-539161",
+        "mean_score_prediction": 5.014594384279917,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "red-panda-4366264",
+        "mean_score_prediction": 6.109402965233471,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "ghost-2935132",
+        "mean_score_prediction": 6.389739705973861,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "body-1130559",
+        "mean_score_prediction": 5.5114328587824275,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "white-4414074",
+        "mean_score_prediction": 5.635802268102452,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "meadow-3743023",
+        "mean_score_prediction": 5.849842149143342,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "walnut-658527",
+        "mean_score_prediction": 5.558764408617208,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "gum-73649",
+        "mean_score_prediction": 4.983838658299646,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "hahn-3820939",
+        "mean_score_prediction": 5.6218906507762085,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "fern-1250903",
+        "mean_score_prediction": 6.077416318366643,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "homberg-1959229",
+        "mean_score_prediction": 6.42340897726694,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "lasagna-3344997",
+        "mean_score_prediction": 5.154455662413966,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "scotland-540119",
+        "mean_score_prediction": 6.302816616986399,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "perfume-1860489",
+        "mean_score_prediction": 6.310894187208106,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "jeans-316778",
+        "mean_score_prediction": 5.756263595486871,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "black-and-white-4961809",
+        "mean_score_prediction": 5.530136943262221,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "bee-104628",
+        "mean_score_prediction": 5.2151622276396665,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "sandwich-3827875",
+        "mean_score_prediction": 5.5447872636159445,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "pregnant-woman-1910302",
+        "mean_score_prediction": 4.987907535563863,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "rose-5326384",
+        "mean_score_prediction": 4.819170566181128,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "creek-21749",
+        "mean_score_prediction": 6.537337846491465,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "dog-training-5098572",
+        "mean_score_prediction": 5.630139659343058,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "woman-3895501",
+        "mean_score_prediction": 5.082593225990422,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "cookies-2576563",
+        "mean_score_prediction": 5.293757982988609,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "beaded-2137080",
+        "mean_score_prediction": 5.891328997028069,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "kermit-1709830",
+        "mean_score_prediction": 4.956939520452579,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "background-3144232",
+        "mean_score_prediction": 5.347001059089962,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "asia-1793425",
+        "mean_score_prediction": 6.406621517520259,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "cloud-4593851",
+        "mean_score_prediction": 5.437199652707477,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "railroad-tracks-163518",
+        "mean_score_prediction": 6.2457841117719575,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "nature-3047873",
+        "mean_score_prediction": 5.6190329000151,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "nature-963293",
+        "mean_score_prediction": 5.356671247835493,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "potion-1249050",
+        "mean_score_prediction": 5.378199733037036,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "wine-1796891",
+        "mean_score_prediction": 5.1189111741114175,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "waterscape-4208104",
+        "mean_score_prediction": 6.148603158897009,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "stilt-3585561",
+        "mean_score_prediction": 5.121045948743813,
+        "db": "pixabay_first50k"
+    },
+    {
+        "image_id": "IMG_4480",
+        "mean_score_prediction": 4.57948941268296,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_7057",
+        "mean_score_prediction": 4.789700783651369,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_6222",
+        "mean_score_prediction": 5.091956152027706,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_20190513_210752882",
+        "mean_score_prediction": 4.90406245928898,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_20190604_212833103",
+        "mean_score_prediction": 4.427328593628772,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_20190531_214259013",
+        "mean_score_prediction": 5.085795291903196,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG-20151029-WA0005",
+        "mean_score_prediction": 5.813905712188443,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_5984",
+        "mean_score_prediction": 5.5161309311920945,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_5971",
+        "mean_score_prediction": 4.67534908478774,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_6945",
+        "mean_score_prediction": 4.663176063637366,
+        "db": "own"
+    },
+    {
+        "image_id": "MG_9166",
+        "mean_score_prediction": 4.928429037885508,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_4889",
+        "mean_score_prediction": 5.213835240498156,
+        "db": "own"
+    },
+    {
+        "image_id": "02_IMG_0047",
+        "mean_score_prediction": 5.54155224381384,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_20191210_094007177",
+        "mean_score_prediction": 5.715317855058657,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_5971_",
+        "mean_score_prediction": 4.513562879023084,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_20180225_180057451",
+        "mean_score_prediction": 4.8578461928336765,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_7893",
+        "mean_score_prediction": 5.690201504700667,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_5792",
+        "mean_score_prediction": 4.996186273820058,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_5549",
+        "mean_score_prediction": 4.907193407663726,
+        "db": "own"
+    },
+    {
+        "image_id": "MG_9180",
+        "mean_score_prediction": 4.49428920817445,
+        "db": "own"
+    },
+    {
+        "image_id": "MG_9035",
+        "mean_score_prediction": 5.1015506262126,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_8918",
+        "mean_score_prediction": 5.303221660058625,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_6819",
+        "mean_score_prediction": 5.003064955599257,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_5567",
+        "mean_score_prediction": 5.25934993478586,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_5391",
+        "mean_score_prediction": 4.679631046863506,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_5557",
+        "mean_score_prediction": 4.985474651650293,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_6010",
+        "mean_score_prediction": 4.915809511818225,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_6215_california",
+        "mean_score_prediction": 5.829149544619412,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_20201127_182815",
+        "mean_score_prediction": 4.831406992743723,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_20191130_144510482",
+        "mean_score_prediction": 5.494062330435554,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_8740",
+        "mean_score_prediction": 5.604644434323291,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_20190517_142525721-EFFECTS",
+        "mean_score_prediction": 5.4422914254255375,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_3867_4",
+        "mean_score_prediction": 5.523815918002583,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_5170",
+        "mean_score_prediction": 5.210899323420563,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_7758",
+        "mean_score_prediction": 5.372570260507928,
+        "db": "own"
+    },
+    {
+        "image_id": "OUT_8905",
+        "mean_score_prediction": 4.016821854555928,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_7595",
+        "mean_score_prediction": 4.987808494421188,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_8948",
+        "mean_score_prediction": 5.245438397412727,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_4436",
+        "mean_score_prediction": 5.451032932891394,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_5050",
+        "mean_score_prediction": 5.2566092511178795,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_8886",
+        "mean_score_prediction": 5.364128682448609,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_7455",
+        "mean_score_prediction": 5.016846266230914,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_7955",
+        "mean_score_prediction": 5.245365239128205,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_3049_0",
+        "mean_score_prediction": 4.5300372417405015,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_5452",
+        "mean_score_prediction": 5.516939126205216,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG-20170508-WA0004",
+        "mean_score_prediction": 5.503836004030802,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_7392_",
+        "mean_score_prediction": 4.5087075865722,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_5334",
+        "mean_score_prediction": 4.1873797298103455,
+        "db": "own"
+    },
+    {
+        "image_id": "blume",
+        "mean_score_prediction": 5.510064970113035,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_4291",
+        "mean_score_prediction": 5.154393987630328,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_8890",
+        "mean_score_prediction": 5.271384030252193,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_8968",
+        "mean_score_prediction": 5.0523498750008,
+        "db": "own"
+    },
+    {
+        "image_id": "MG_9215",
+        "mean_score_prediction": 4.772646001735666,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_6258_",
+        "mean_score_prediction": 5.271824589333846,
+        "db": "own"
+    },
+    {
+        "image_id": "01_IMG_9678",
+        "mean_score_prediction": 4.950820688914973,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_5127",
+        "mean_score_prediction": 5.078169000567868,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_6790",
+        "mean_score_prediction": 4.597066009581795,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_0651",
+        "mean_score_prediction": 5.143431873162626,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_3995",
+        "mean_score_prediction": 5.776774808168284,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_7187",
+        "mean_score_prediction": 5.936353917117003,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_5359",
+        "mean_score_prediction": 5.631624691493016,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_20200819_124547156_BURST000_COVER_TOP",
+        "mean_score_prediction": 5.3751828885459645,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_20191101_115229045",
+        "mean_score_prediction": 5.971780804707805,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_9401",
+        "mean_score_prediction": 5.477929157842482,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_5188",
+        "mean_score_prediction": 5.990700686478846,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_20200816_124118257_HDR",
+        "mean_score_prediction": 5.103488141905018,
+        "db": "own"
+    },
+    {
+        "image_id": "01_IMG_9996",
+        "mean_score_prediction": 5.704524612599556,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_6970",
+        "mean_score_prediction": 4.674152757605043,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_8774",
+        "mean_score_prediction": 5.672646547518298,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_20200906_194627870",
+        "mean_score_prediction": 5.463907627653498,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_5003",
+        "mean_score_prediction": 5.92425854746358,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_4248",
+        "mean_score_prediction": 5.16011586537843,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_6838",
+        "mean_score_prediction": 5.143237569687699,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_6837",
+        "mean_score_prediction": 5.0900769696982024,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG-20170508-WA0005",
+        "mean_score_prediction": 5.234837907765268,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_7640",
+        "mean_score_prediction": 5.919038574203682,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_7817",
+        "mean_score_prediction": 5.609536902229593,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_4884",
+        "mean_score_prediction": 4.936875151125605,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_8736",
+        "mean_score_prediction": 5.0051023671858275,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_6426",
+        "mean_score_prediction": 5.697836768968955,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_5656",
+        "mean_score_prediction": 5.283593077610476,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_20180224_212247556",
+        "mean_score_prediction": 5.368986111054255,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_5045",
+        "mean_score_prediction": 5.832355775364988,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_5283",
+        "mean_score_prediction": 4.926949042128399,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_5572",
+        "mean_score_prediction": 4.6576716187701095,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_5936",
+        "mean_score_prediction": 5.064176342784776,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_7663",
+        "mean_score_prediction": 4.761067927931435,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_5541",
+        "mean_score_prediction": 5.326951625138463,
+        "db": "own"
+    },
+    {
+        "image_id": "01_IMG_9943",
+        "mean_score_prediction": 6.050597742439777,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_5982",
+        "mean_score_prediction": 4.8025551422761055,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_6976",
+        "mean_score_prediction": 5.443489994350841,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_4140",
+        "mean_score_prediction": 5.359747214683011,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_5424",
+        "mean_score_prediction": 4.823416231985902,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_7450",
+        "mean_score_prediction": 5.107567789632867,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_5484",
+        "mean_score_prediction": 4.493333690952568,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_20180201_171046026",
+        "mean_score_prediction": 4.753135918907901,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_7753",
+        "mean_score_prediction": 4.909849584471431,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_6255_",
+        "mean_score_prediction": 4.916417563217692,
+        "db": "own"
+    },
+    {
+        "image_id": "02_IMG_0278",
+        "mean_score_prediction": 5.859315662733465,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_6909",
+        "mean_score_prediction": 5.507910043880884,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_9320",
+        "mean_score_prediction": 4.388195927807828,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_4110",
+        "mean_score_prediction": 5.246458381091543,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_20190901_161832305",
+        "mean_score_prediction": 5.09434082302505,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_7141",
+        "mean_score_prediction": 4.97901293199493,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_5099",
+        "mean_score_prediction": 5.226830641142442,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_6314",
+        "mean_score_prediction": 4.717050837549323,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_8868",
+        "mean_score_prediction": 4.396786128156236,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_8917",
+        "mean_score_prediction": 5.253514528252708,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_5010",
+        "mean_score_prediction": 5.114722541286028,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_20180118_122557411",
+        "mean_score_prediction": 5.300395320778534,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_20191130_131452287_HDR",
+        "mean_score_prediction": 5.33196143839632,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_20191031_173218684",
+        "mean_score_prediction": 5.047384297053213,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_20190831_145604539",
+        "mean_score_prediction": 5.690265101150537,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_20190505_194506274_HDR-EFFECTS",
+        "mean_score_prediction": 5.890750484418703,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_8098",
+        "mean_score_prediction": 5.512170298505225,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_6454",
+        "mean_score_prediction": 4.843565270828549,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_7579",
+        "mean_score_prediction": 5.480778126573142,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_9065",
+        "mean_score_prediction": 4.674697620510415,
+        "db": "own"
+    },
+    {
+        "image_id": "01_IMG_9832",
+        "mean_score_prediction": 5.383593458318046,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_6457",
+        "mean_score_prediction": 4.822484920321585,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_4922_",
+        "mean_score_prediction": 5.555754141476427,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_4537",
+        "mean_score_prediction": 4.379821343522053,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_20200928_164235267_HDR",
+        "mean_score_prediction": 5.266902584676245,
+        "db": "own"
+    },
+    {
+        "image_id": "MG_9163",
+        "mean_score_prediction": 5.128907382924808,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_9671",
+        "mean_score_prediction": 5.54636057972948,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_20200209_162238018",
+        "mean_score_prediction": 4.080912450612232,
+        "db": "own"
+    },
+    {
+        "image_id": "01_IMG_9988",
+        "mean_score_prediction": 5.494273761475711,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_5128",
+        "mean_score_prediction": 5.112553410595865,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_5983",
+        "mean_score_prediction": 5.377026068654686,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_6177_golden_2",
+        "mean_score_prediction": 5.3846582461000025,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_5571",
+        "mean_score_prediction": 5.494364063648391,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_5150",
+        "mean_score_prediction": 5.124314629108994,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_1665",
+        "mean_score_prediction": 5.375199378600655,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_20170907_182814017",
+        "mean_score_prediction": 5.741079186057732,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_4558",
+        "mean_score_prediction": 4.840840838121949,
+        "db": "own"
+    },
+    {
+        "image_id": "IMG_9326",
+        "mean_score_prediction": 4.904671125579625,
+        "db": "own"
+    }
+]
