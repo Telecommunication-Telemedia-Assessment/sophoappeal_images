@@ -1,4 +1,4 @@
-# Sohpappeal Images
+# AVT-ImageAppeal-Dataset -- Sohpappeal Images
 This repository is part of [Sohpappeal](https://github.com/Telecommunication-Telemedia-Assessment/sophoappeal).
 Please use the main repository as starting point.
 Some analysis script may require subfolders which are organized in the main repo correctly.
@@ -6,6 +6,7 @@ Some analysis script may require subfolders which are organized in the main repo
 
 This repository is part of the DFG project [Sophoappeal (437543412)](https://www.tu-ilmenau.de/universitaet/fakultaeten/fakultaet-elektrotechnik-und-informationstechnik/profil/institute-und-fachgebiete/fachgebiet-audiovisuelle-technik/forschung/dfg-projekt-sophoappeal), it contains images and analysis scripts.
 
+![](all_crop.jpg)
 
 ## Requirements
 
@@ -46,7 +47,7 @@ This repository contains already all pre-calculated feature values for the datas
     * `pixabay_first50k`: images from Pixabay
 * `tools`: tools for feature extraction
 
-
+* **all images** are CC0 licenced.
 
 ## Hints
 
