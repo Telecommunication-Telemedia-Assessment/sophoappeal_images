@@ -11,7 +11,7 @@ This repository is part of the DFG project [Sophoappeal (437543412)](https://www
 
 For this repo you need to have git-lfs installed, see [git-lfs](https://git-lfs.github.com/).
 
-* python3, python3-pip, git, imagemagick, wget
+* python3, python3-pip, git, imagemagick, wget, unzip
 * jupyternotebook for the analysis scripts
 
 Run `./prepare.sh` to download all images.
