@@ -26,6 +26,27 @@ This repository contains already all pre-calculated feature values for the datas
 * `./create_grid_view.sh`: creates overview image of all images, see all.jpg
 * `./create_grid_view_crop.sh`: create overview image of all images as cropped variant, see all_crop.jpg
 
+* `analysis_crowd_ratings.ipynb`: crowd ratings, requires a the main repo
+* `analysis_crowd_ratings_vs_features.ipynb`: crowd ratings compared to features, requires a the main repo
+* `check_features.ipynb`: analysis of fetures
+* `check_likes_views.ipynb`: check likes and views
+* `check_nima_niqe.ipynb`: evaluate nima and niqe
+* `check_photo_rules.ipynb`: check rule prediction
+* `check_resolution.ipynb`: checks resolutions of images
+* `check_visual_sentiment.ipynb`: visual sentiment analysis
+* `extract_like_view.ipynb`: extracts like and view from the `ratings.csv` of each subdataset.
+
+## Structure
+* subdatasets:
+    * `500px_cc0`: 500px images
+    * `aadb`: images from the AADB dataset
+    * `ava`: images from the AVA dataset
+    * `koniq10k`: koniq10k images
+    * `own`: own images
+    * `pixabay_first50k`: images from Pixabay
+* `tools`: tools for feature extraction
+
+
 
 ## Hints
 
